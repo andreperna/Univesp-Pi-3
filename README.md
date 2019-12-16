@@ -33,16 +33,16 @@ O sistema foi desenvolvido na plataforma Kodular, por tratar-se de um ambiente p
 
 # Telas do Sistema
 ## Home
-![Home](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Home.jpeg?raw=true)
+> ![Home](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Home.jpeg?raw=true)
 
 ## Entradas
-![Entradas](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Entradas.jpeg?raw=true)
+> ![Entradas](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Entradas.jpeg?raw=true)
 
 ## Saidas
-![Saidas](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Saidas.jpeg?raw=true)
+> ![Saidas](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Saidas.jpeg?raw=true)
 
 ## Saldo
-![Saldo](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Saldo.jpeg?raw=true)
+> ![Saldo](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Saldo.jpeg?raw=true)
 
 ## Menu
-![Saldo](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Menu.jpeg?raw=true)
+> ![Saldo](https://github.com/andreperna/Univesp-Pi-3/blob/master/Prints%20de%20Tela/Menu.jpeg?raw=true)
