@@ -3,7 +3,7 @@ Projeto Integrador nº 3 da UNIVESP, referente ao 4º Semestre (Bimestres 7 e 8)
 
 &nbsp;
 
-# Título: Armazenamento de Acúcar: Controle de Estoque de Bags
+# Armazenamento de Acúcar: Controle de Estoque de Bags
 
 &nbsp;
 
